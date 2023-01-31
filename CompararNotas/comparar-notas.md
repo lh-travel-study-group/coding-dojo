@@ -18,8 +18,8 @@ Dados a e b , determine seus respectivos pontos de comparação.
 
 Exemplo
 
-```a = [1, 2, 3]
-b = [3, 2, 1]```
+```a = [1, 2, 3]```
+```b = [3, 2, 1]```
 
 Para os elementos ```*0*```, Bob recebe um ponto porque ```a[0] < b[0]```.
 Para os elementos iguais ```a[1] e b[1]``` , nenhum ponto é ganho.
