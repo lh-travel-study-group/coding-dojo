@@ -5,5 +5,5 @@
 
 <h2><img src="https://imgur.com/eeqbqFZ.png" title="source: imgur.com" width="35px"/> Desafios</h2>
 
-1. <a href="CompararNotas/comparar-notas.md">Comparar Notas</a>
-2. <a href="DiferencaDiagonais/diferenca-diagonais.md">Diferença Diagonais</a>
+1. <a href="CompararNotas/README.md">Comparar Notas</a>
+2. <a href="DiferencaDiagonais/README.md">Diferença Diagonais</a>
