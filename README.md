@@ -7,3 +7,4 @@
 
 1. <a href="CompararNotas/">Comparar Notas</a>
 2. <a href="DiferencaDiagonais/">Diferença Diagonais</a>
+3. <a href="Staircase/">Staircase detail</a>
